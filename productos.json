@@ -1,0 +1,142 @@
+[
+  {
+    "nombre": "Auriculares Bluetooth",
+    "categoria": "Electrónica",
+    "precio": 49.99,
+    "stock": 100,
+    "descripcion": "Auriculares inalámbricos con cancelación de ruido y hasta 20 horas de autonomía.",
+    "disponible": true,
+    "fecha_ingreso": "2024-11-19",
+    "caracteristicas": {
+      "color": "Negro",
+      "peso": "200g",
+      "bluetooth": "5.0"
+    }
+  },
+  {
+    "nombre": "Smartphone 5G",
+    "categoria": "Electrónica",
+    "precio": 799.99,
+    "stock": 50,
+    "descripcion": "Smartphone con pantalla AMOLED de 6.5 pulgadas, cámara triple y conectividad 5G.",
+    "disponible": true,
+    "fecha_ingreso": "2024-11-15",
+    "caracteristicas": {
+      "color": "Plata",
+      "almacenamiento": "128GB",
+      "ram": "8GB"
+    }
+  },
+  {
+    "nombre": "Laptop Ultrabook",
+    "categoria": "Informática",
+    "precio": 1299.99,
+    "stock": 30,
+    "descripcion": "Portátil ultraligero con procesador Intel i7, 16GB de RAM y 512GB SSD.",
+    "disponible": true,
+    "fecha_ingreso": "2024-11-10",
+    "caracteristicas": {
+      "peso": "1.2kg",
+      "bateria": "10 horas",
+      "pantalla": "13.3 pulgadas"
+    }
+  },
+  {
+    "nombre": "Teclado Mecánico RGB",
+    "categoria": "Accesorios",
+    "precio": 89.99,
+    "stock": 150,
+    "descripcion": "Teclado mecánico con iluminación RGB personalizable y switches azules.",
+    "disponible": true,
+    "fecha_ingreso": "2024-11-01",
+    "caracteristicas": {
+      "tipo": "Mecánico",
+      "conexion": "Cableado",
+      "idioma": "Español"
+    }
+  },
+  {
+    "nombre": "Monitor 4K",
+    "categoria": "Informática",
+    "precio": 399.99,
+    "stock": 25,
+    "descripcion": "Monitor UHD 4K de 27 pulgadas con tecnología HDR y 144Hz.",
+    "disponible": true,
+    "fecha_ingreso": "2024-11-12",
+    "caracteristicas": {
+      "resolucion": "3840x2160",
+      "frecuencia": "144Hz",
+      "panel": "IPS"
+    }
+  },
+  {
+    "nombre": "Impresora Multifunción",
+    "categoria": "Oficina",
+    "precio": 149.99,
+    "stock": 40,
+    "descripcion": "Impresora todo-en-uno con conectividad WiFi y compatibilidad con impresión móvil.",
+    "disponible": true,
+    "fecha_ingreso": "2024-11-05",
+    "caracteristicas": {
+      "tecnologia": "Inyección de tinta",
+      "color": "Blanco",
+      "funciones": ["Imprimir", "Escanear", "Copiar"]
+    }
+  },
+  {
+    "nombre": "Mouse Inalámbrico",
+    "categoria": "Accesorios",
+    "precio": 24.99,
+    "stock": 200,
+    "descripcion": "Mouse ergonómico con sensor óptico de alta precisión y conectividad Bluetooth.",
+    "disponible": true,
+    "fecha_ingreso": "2024-11-17",
+    "caracteristicas": {
+      "dpi": "1600",
+      "bateria": "Recargable",
+      "color": "Gris"
+    }
+  },
+  {
+    "nombre": "Cámara Deportiva 4K",
+    "categoria": "Fotografía",
+    "precio": 299.99,
+    "stock": 75,
+    "descripcion": "Cámara de acción resistente al agua con grabación en 4K y estabilización de imagen.",
+    "disponible": true,
+    "fecha_ingreso": "2024-11-08",
+    "caracteristicas": {
+      "resolucion_video": "4K",
+      "sumergible": "30m",
+      "peso": "150g"
+    }
+  },
+  {
+    "nombre": "Altavoz Inteligente",
+    "categoria": "Hogar",
+    "precio": 79.99,
+    "stock": 120,
+    "descripcion": "Altavoz inteligente con asistente virtual integrado y conectividad WiFi.",
+    "disponible": true,
+    "fecha_ingreso": "2024-11-11",
+    "caracteristicas": {
+      "conexion": "WiFi",
+      "color": "Blanco",
+      "asistente": "Compatibilidad con Alexa y Google"
+    }
+  },
+  {
+    "nombre": "Disco Duro Externo",
+    "categoria": "Almacenamiento",
+    "precio": 89.99,
+    "stock": 60,
+    "descripcion": "Disco duro externo de 2TB con conexión USB 3.0.",
+    "disponible": true,
+    "fecha_ingreso": "2024-11-18",
+    "caracteristicas": {
+      "capacidad": "2TB",
+      "interfaz": "USB 3.0",
+      "color": "Negro"
+    }
+  }
+]
